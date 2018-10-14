@@ -1,0 +1,28 @@
+{
+  "name": "node-email-server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.11.1"
+  },
+  "description": "a native Nodejs email server ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node starter.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yangarnet/node-email-server.git"
+  },
+  "keywords": [
+    "Nodejs"
+  ],
+  "author": "gyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yangarnet/node-email-server/issues"
+  },
+  "homepage": "https://github.com/yangarnet/node-email-server#readme",
+  "dependencies": {
+    "esm": "^3.0.84"
+  }
+}
